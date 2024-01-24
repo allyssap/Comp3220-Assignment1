@@ -4,6 +4,9 @@
 
   Click here to view the docs:
   (https://github.com/allyssap/Comp3220-Assignment1/tree/main/doc)
+
+  Click here to view to docs in your browser:
+  Oops! Please come back later
   
 
 # Running the Program
